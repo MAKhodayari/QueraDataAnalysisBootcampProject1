@@ -1,0 +1,18 @@
+POST /api/Places/search HTTP/2
+Host: foodism.app
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0
+Accept: application/json
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://foodism.app/
+Content-Type: application/json
+Token: ad5f26d8f12cdc16cdbc6cf185ec50cd
+X-Requested-With: XMLHttpRequest
+Content-Length: 55
+Origin: https://foodism.app
+Connection: keep-alive
+Cookie: csrfToken=4e563f7354b11f8d85ef32ec9d64eac3755a2710923c60613be36e43468d447d644526ab89b181bb8bc1cd1a4d2e7389b127d3da98ff1622b4b90bc8950346e6; _ga=GA1.2.1355427005.1675250522; _gid=GA1.2.1977684489.1675250522; analytics_campaign={%22source%22:%22direct%22%2C%22medium%22:null}; analytics_token=e5f3f447-fd9d-c264-d49a-4171feba2c53; yektanet_session_last_activity=2/1/2023; _yngt_iframe=1; _yngt_match={%22sabavision%22:1}; _yngt=38f5925f-d2a2-4bfb-96fc-8fa8f49730a8; content-view-yn-notification-28227=3; analytics_session_token=febc04be-02f2-425b-ba22-3fa3f09cddce
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+TE: trailers

@@ -1,1 +1,2 @@
-# QueraDataAnalysisBootcampProject1
+# Quera_Data_Science
+داشبورد این پروژه برای عموم روی [این لینک](http://103.75.196.219:8506) قابل مشاهده هست
