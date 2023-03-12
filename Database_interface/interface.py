@@ -5,10 +5,10 @@ from sqlalchemy import text
 
 # connection to database
 # %%
-user = 'user_group2'
-password = 'n8RqKtxMFauVYD^u'
-host = "37.32.5.76:3306"
-db = 'group2'
+user = 'USER'
+password = 'PASS'
+host = "IP"
+db = 'DB'
 engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}/{db}")
 connection = engine.connect() 
 
